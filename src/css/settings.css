@@ -24,6 +24,10 @@ label {
   padding-left: 2px;
 }
 
+input.error {
+ border:1px solid red;
+}
+
 legend {
   font-weight: bold;
   padding: 0 4px;

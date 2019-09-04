@@ -1,10 +1,12 @@
 export default {
   defaultLocale: 'en',
   supportedLocales: [
+    // Uncomment locales as you support them by adding
+    // string .json files to /strings/ directory.
     // 'cs',
     // 'de',
     'en',
-    // 'es',
+    'es',
     // 'fi',
     // 'fr',
     // 'hu',
